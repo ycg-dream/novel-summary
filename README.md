@@ -33,7 +33,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yangchanggui1994/novel-summary.git
+git clone https://github.com/ycg-dream/novel-summary.git
 # 软链到 skills 目录
 ln -s "$(pwd)/novel-summary" ~/.claude/skills/novel-summary
 ```
@@ -41,7 +41,7 @@ ln -s "$(pwd)/novel-summary" ~/.claude/skills/novel-summary
 ### 方式 2:作为 Python 工具包
 
 ```bash
-git clone https://github.com/yangchanggui1994/novel-summary.git
+git clone https://github.com/ycg-dream/novel-summary.git
 cd novel-summary
 # 脚本直接用,无需安装
 python diagnose_novel.py --path /path/to/novel.txt
