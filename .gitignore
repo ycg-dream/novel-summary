@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# 切分临时文件(20 万字/段)
+*_part_*.txt
+*_part_*.md
+part_*.txt
+part_*.md
+
+# 单 part 摘要中间产物
+*_summary.md
+*_summary_v*.md
+*_summary_*.md
+
+# 进度笔记临时文件
+progress_*.md
+progress.md
+notes_*.md
+
+# 诊断报告
+diagnose_*.txt
+diagnose_*.json
+diagnose_report.*
+
+# 全书汇总中间产物
+*_汇总*.md
+*_full_summary*.md
+*_merged*.md
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
