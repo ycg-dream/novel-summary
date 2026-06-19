@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- README 重构:加"摘要样例"区块,加"5 步工作流"图,加"适合谁/不适合谁"明确目标用户
+- 关键词优化:往"中文长篇小说/网文速看/txt 摘要"等搜索词靠拢,扩大触达
+
 ## [1.0.0] - 2026-06-14
 
 ### Added
